@@ -13,6 +13,6 @@
 
 
 
--Yunus Emre Suna
--Onur Can Sarı
--Furkan Kızıltoprak 
+-Yunus Emre Suna  
+-Onur Can Sarı  
+-Furkan Kızıltoprak  
